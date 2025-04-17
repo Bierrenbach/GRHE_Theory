@@ -20,7 +20,7 @@ The GRHE unifies gravitational phenomena with regenerative wave dynamics and spa
 We welcome contributions to validate GRHE predictions, optimize code, or extend the theory. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Contact
-Open an Issue or contact the maintainer for inquiries.
+Open an Issue or contact the maintainer for inquiries, or send me an e-mail: bierrenbach85@gmail.com
 
 ## Citation
 If you use this work, please cite: [Your Name], "Gravidade Regenerativa e Homeostase Espacial," submitted to *General Relativity and Gravitation*, 2025.
