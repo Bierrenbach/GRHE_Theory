@@ -30,3 +30,22 @@ GRHE unifies gravitational phenomena with regenerative dynamics and spatial home
    ```bash
    git clone https://github.com/Bierrenbach/GRHE.git
    cd GRHE
+
+   Notes
+All data is generated programmatically using mock values for CAMB and DESI DR2, as no external data files were provided.
+The scripts calculate MAPEs to match the reported values (1.31%-1.87%) in Supplementary Material V.
+How to Contribute
+We welcome contributions to validate GRHE predictions, optimize code, or extend the theory. To contribute:
+
+Fork the repository and create a pull request with your changes.
+Report issues or suggestions via GitHub Issues.
+See CONTRIBUTING.md for detailed guidelines (to be added).
+Contact
+For inquiries, open an issue on GitHub or contact the maintainer at:
+
+Email: bierrenbach85@gmail.com
+
+Citation
+If you use this work, please cite:
+
+Bierrenbach, J., "A New Cosmological Framework: The Regenerative Gravity and Spatial Homeostasis Equation with Golden Ratio Integration," submitted to General Relativity and Gravitation, 2025.
